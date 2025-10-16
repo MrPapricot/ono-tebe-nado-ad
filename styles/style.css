@@ -86,7 +86,7 @@
     width: 129.11196899414062px;
     height: 104.6517562866211px;
 }
-gfi
+
 .address__header {
     position: absolute;
     right: 0;
@@ -433,4 +433,8 @@ logo_ellipse {
 .partner__icons__list__item__img {
     width: 48px;
     height: 48px;
+}
+
+.main {
+    
 }
